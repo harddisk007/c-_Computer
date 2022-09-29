@@ -1,0 +1,103 @@
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.pdb
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Data.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Web.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\Google.Protobuf.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ZstdNet.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\BouncyCastle.Crypto.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\Ubiety.Dns.Core.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Memory.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Buffers.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Hash.xxHash.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Data.xml
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Web.xml
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.AssemblyReference.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.SuggestedBindingRedirects.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form1.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Properties.Resources.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.GenerateResource.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CoreCompileInputs.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CopyComplete
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.pdb
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form2.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form3.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form4.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form5.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form6.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form7.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form8.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Probation.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในมข.ปี 1\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.new.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.pdb
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Data.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Web.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\Google.Protobuf.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\ZstdNet.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\BouncyCastle.Crypto.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\Ubiety.Dns.Core.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Memory.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Buffers.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Hash.xxHash.dll
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Data.xml
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Web.xml
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.AssemblyReference.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.SuggestedBindingRedirects.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form1.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form2.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form3.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form4.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form5.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form6.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form7.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form8.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.new.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Probation.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Properties.Resources.resources
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.GenerateResource.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CoreCompileInputs.cache
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CopyComplete
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe
+D:\งานใหม่ HARDDISK\งานใหม่ในKKU\ปี 1 เทอม 2\เขียนโปรแกรม\c#\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.pdb
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.exe
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\ProjectOnePerson.pdb
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\Google.Protobuf.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\ZstdNet.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\BouncyCastle.Crypto.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\Ubiety.Dns.Core.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Memory.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\System.Buffers.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Compression.LZ4.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\K4os.Hash.xxHash.dll
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Data.xml
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\bin\Debug\MySql.Web.xml
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.AssemblyReference.cache
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.SuggestedBindingRedirects.cache
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe.config
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form1.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form2.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form3.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form4.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form5.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form6.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form7.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Form8.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.new.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Probation.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.Properties.Resources.resources
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.GenerateResource.cache
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CoreCompileInputs.cache
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.csproj.CopyComplete
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.exe
+D:\งานใหม่ harddisk\ปี 1\c#\ProjectOnePerson-20220715T153104Z-001\ProjectOnePerson\ProjectOnePerson\obj\Debug\ProjectOnePerson.pdb
